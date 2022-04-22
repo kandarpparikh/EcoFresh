@@ -1,6 +1,4 @@
-# CSCI5709 Assignment 3
-
-## EcoFresh - Group 10
+## EcoFresh
 
 The goal of EcoFresh is to deliver meal kits which means supplying recipes with ingredients with empirical measurements.
 We are aiming to establish a supply chain so our application would be a one stop platform for suppliers, administrators, and customers.
